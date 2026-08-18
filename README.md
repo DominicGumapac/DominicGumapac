@@ -10,7 +10,7 @@ I am a passionate IT student at Xavier University, driven by a curiosity for tec
 - 📫 How to reach me: <20220024380@my.xu.edu.ph>
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode,godot)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 - 🚀 Learning Full Stack Web Development
@@ -23,5 +23,6 @@ I am a passionate IT student at Xavier University, driven by a curiosity for tec
 
 ## Fun Fact
 - I am actually terrible in coding but still know the basic gist of it
+- Learning to make my first game in godot
 
 Thanks for stopping by!
